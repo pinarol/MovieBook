@@ -1,2 +1,2 @@
 # MovieBook
-Experimental App that searches for movies using the IMDB API.
+Experimental App that can search for movies using the IMDB API.
